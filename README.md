@@ -184,7 +184,7 @@ REACT_APP_NILLION_NILCHAIN_PRIVATE_KEY=YOUR-NIL-FUNDED-PRIVATE-KEY
 
 ### Step 2: Create a Nillion Wallet and Get the Private Key
 
-Follow the [Creating a Nillion Wallet](https://docs.nillion.network/wallet-guide) guide to create your Nillion wallet. Use the "Sign up with Google" option because Keplr only exposes the private key of wallets created this way.
+Follow the [Creating a Nillion Wallet](https://docs.nillion.com/guide-testnet-connect) guide to create your Nillion wallet. Use the "Sign up with Google" option because Keplr only exposes the private key of wallets created this way.
 
 **Steps:**
 1. Create your Nillion wallet with Google.
@@ -192,7 +192,7 @@ Follow the [Creating a Nillion Wallet](https://docs.nillion.network/wallet-guide
 
 ### Step 3: Fund the Nillion Wallet Address
 
-Follow the [Nillion Faucet Guide](https://docs.nillion.network/faucet-guide) to get Testnet NIL to fund your Nillion wallet address. This will allow your app to pay for operations.
+Follow the [Nillion Faucet Guide](https://docs.nillion.com/guide-testnet-faucet) to get Testnet NIL to fund your Nillion wallet address. This will allow your app to pay for operations.
 
 ### Step 4: Test the Configuration Locally
 
